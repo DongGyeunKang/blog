@@ -16,7 +16,7 @@ function App() {
   //   newArray[0] = '여자 코트 추천';
   //   글제목변경(newArray);
   // }
-  
+  //
   return (
     <div className="App">
       <div className = "black-nav">
